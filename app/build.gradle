@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace 'com.github.farhanaliofficial.logingui'
+    namespace 'com.github.farhaanaliii.logingui'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.github.farhanaliofficial.logingui"
+        applicationId "com.github.farhaanaliii.logingui"
         minSdk 23
         targetSdk 35
         versionCode 1

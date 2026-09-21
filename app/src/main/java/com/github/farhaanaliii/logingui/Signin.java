@@ -1,4 +1,4 @@
-package com.github.farhanaliofficial.logingui;
+package com.github.farhaanaliii.logingui;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
